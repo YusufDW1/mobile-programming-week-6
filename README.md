@@ -1,4 +1,4 @@
-# crud
+# Mobile programming Week 6
 
 A new Flutter project.
 
